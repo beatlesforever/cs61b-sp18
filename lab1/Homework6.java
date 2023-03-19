@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 /**
- * @author zhouhaoran
  * @date 2023/2/26
  * @project study
  */
